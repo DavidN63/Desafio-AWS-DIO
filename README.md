@@ -7,7 +7,7 @@ Data: [01/07/2025]
 Empresa: Abstergo Industries 
 Responsavel: [David Nascimento]
 
-## IntroduÃ§Ã£o
+## Introdução
 Este relatório apresenta o processo de implementaçãoo de ferramentas na empresa [Abstergo Industries], realizado por [David Nascimento]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
